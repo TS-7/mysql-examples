@@ -1,0 +1,16 @@
+{
+  "name": "glaciered",
+  "version": "1.0.0",
+  "description": "Custom handscripted bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illumiinati",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "enmap": "^5.8.0",
+    "gamedig": "^2.0.23"
+  }
+}
